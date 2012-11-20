@@ -23,3 +23,9 @@ Clears any cookies used by the Smart & Targeted platform.
 **Use On:** Any website hosting the Smart & Targeted widget.
 
 **<a href="javascript:(function(d, s){var a=d.createElement(s);a.async=true;a.src='https://raw.github.com/mattbenton/fanplayr/master/bookmarklets/clear-st-data.js';d.body.appendChild(a)})(document, 'script')">clear-st-data.js</a>**
+
+### Expire Smart & Targeted User Session
+
+**Use On:** Any website hosting the Smart & Targeted widget.
+
+**<a href="javascript:(function(d, s){var a=d.createElement(s);a.async=true;a.src='https://raw.github.com/mattbenton/fanplayr/master/bookmarklets/st-expire-session.js';d.body.appendChild(a)})(document, 'script')">Expire S&T Session</a>**
